@@ -7,4 +7,4 @@
 - Infraestructura: Docker + Kubernetes + GitHub Actions
 
 ## Estado del proyecto
-- Fase actual: Fase 1 (Agile y Git)
+- Fase actual: Fase 2 en preparación - Rama B
